@@ -60,7 +60,6 @@ The Actual data and the predicted data show enough closeness to conclude that th
 - Pandas - version 2.1.4
 - Matplotlib - version 3.7.3
 - seaborn - version 0.12.2
-- seaborn - version 0.12.2
 - sklearn - version 1.2.2
 - statsmodels - version 0.14.0
 
